@@ -3,3 +3,8 @@
 
 # Packaging
 .cask
+
+pyim/
+.~
+auto-save-list
+.last-package-update-day
